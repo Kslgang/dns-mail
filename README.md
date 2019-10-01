@@ -1,0 +1,2 @@
+# dns-mail
+dnsmail server
