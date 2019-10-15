@@ -8,5 +8,5 @@ $TTL	86400
 ;
 
 @	IN	NS	debian.thomas-kissel.local.
-debian.thomas-kissel.local.	IN	A	10.206.0.177
-@ 3w	IN	MX	10	mail
+177.0.206.10.in-addr.arpa.	IN	PTR	10.206.00.177
+

@@ -8,5 +8,5 @@ $TTL	86400
 ;
 
 $ORIGIN thomas-kissel.local
-	IN	NS	203-28
-debian	IN	A	10.203.28.23
+	IN	NS	206-0
+debian	IN	A	10.206.0.177

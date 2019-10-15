@@ -33,4 +33,7 @@ zone "thomas-kissel.local" {
 	type master;
 	file "/etc/bind/db.thomas.kissel";
 };
-
+zone "206.10.in-addr.arpa" {
+	type master;
+	file "/etc/bind/db.10.206";
+};
